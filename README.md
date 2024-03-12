@@ -7,7 +7,7 @@ Software Developer
 ------------------
 
 Currently 2nd Year Student @NSCC
-s
+
 * 🧠  I'm learning Data Structure and Algorithm. Also, always Working on projects
 * 🤝  I'm open to collaborating on Interesting Projects
 * 🖥️  See my portfolio at [Portfolio](http://kanishkx.github.io/Portfolio/)
